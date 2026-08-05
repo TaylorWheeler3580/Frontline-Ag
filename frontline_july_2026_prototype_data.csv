@@ -1,0 +1,101 @@
+record_type,channel,location_or_creative,impressions,share_pct,clicks,completes,actions,target_share_pct,data_status
+geo,Display,Bozeman / Belgrade,27050,21,,,,20.0,modeled allocation
+geo,Display,Great Falls,27050,21,,,,20.0,modeled allocation
+geo,Display,Havre,14169,11,,,,10.0,modeled allocation
+geo,Display,Lewistown,12881,10,,,,9.0,modeled allocation
+geo,Display,Conrad,11593,9,,,,9.0,modeled allocation
+geo,Display,Livingston,10305,8,,,,8.0,modeled allocation
+geo,Display,Dillon,9017,7,,,,7.0,modeled allocation
+geo,Display,Cut Bank,7728,6,,,,6.0,modeled allocation
+geo,Display,Choteau,6440,5,,,,6.0,modeled allocation
+geo,Display,Chester,2576,2,,,,5.0,modeled allocation
+geo,YouTube,Bozeman / Belgrade,7905,22,,,,20.0,modeled allocation
+geo,YouTube,Great Falls,7186,20,,,,20.0,modeled allocation
+geo,YouTube,Havre,3593,10,,,,10.0,modeled allocation
+geo,YouTube,Lewistown,3593,10,,,,9.0,modeled allocation
+geo,YouTube,Conrad,3234,9,,,,9.0,modeled allocation
+geo,YouTube,Livingston,2874,8,,,,8.0,modeled allocation
+geo,YouTube,Dillon,2515,7,,,,7.0,modeled allocation
+geo,YouTube,Cut Bank,2156,6,,,,6.0,modeled allocation
+geo,YouTube,Choteau,1796,5,,,,6.0,modeled allocation
+geo,YouTube,Chester,1078,3,,,,5.0,modeled allocation
+geo,STV,Bozeman / Belgrade,14217,20,,,,20.0,modeled allocation
+geo,STV,Great Falls,15639,22,,,,20.0,modeled allocation
+geo,STV,Havre,7819,11,,,,10.0,modeled allocation
+geo,STV,Lewistown,6398,9,,,,9.0,modeled allocation
+geo,STV,Conrad,6398,9,,,,9.0,modeled allocation
+geo,STV,Livingston,5687,8,,,,8.0,modeled allocation
+geo,STV,Dillon,4976,7,,,,7.0,modeled allocation
+geo,STV,Cut Bank,4265,6,,,,6.0,modeled allocation
+geo,STV,Choteau,3554,5,,,,6.0,modeled allocation
+geo,STV,Chester,2133,3,,,,5.0,modeled allocation
+geo,Premium Plus STV,Bozeman / Belgrade,7092,18,,,,20.0,modeled allocation
+geo,Premium Plus STV,Great Falls,9062,23,,,,20.0,modeled allocation
+geo,Premium Plus STV,Havre,3940,10,,,,10.0,modeled allocation
+geo,Premium Plus STV,Lewistown,3940,10,,,,9.0,modeled allocation
+geo,Premium Plus STV,Conrad,3546,9,,,,9.0,modeled allocation
+geo,Premium Plus STV,Livingston,3152,8,,,,8.0,modeled allocation
+geo,Premium Plus STV,Dillon,2758,7,,,,7.0,modeled allocation
+geo,Premium Plus STV,Cut Bank,2364,6,,,,6.0,modeled allocation
+geo,Premium Plus STV,Choteau,1970,5,,,,6.0,modeled allocation
+geo,Premium Plus STV,Chester,1576,4,,,,5.0,modeled allocation
+geo,Social,Bozeman / Belgrade,21332,23,,,,20.0,modeled allocation
+geo,Social,Great Falls,17622,19,,,,20.0,modeled allocation
+geo,Social,Havre,9275,10,,,,10.0,modeled allocation
+geo,Social,Lewistown,9275,10,,,,9.0,modeled allocation
+geo,Social,Conrad,7420,8,,,,9.0,modeled allocation
+geo,Social,Livingston,8348,9,,,,8.0,modeled allocation
+geo,Social,Dillon,6492,7,,,,7.0,modeled allocation
+geo,Social,Cut Bank,4638,5,,,,6.0,modeled allocation
+geo,Social,Choteau,5565,6,,,,6.0,modeled allocation
+geo,Social,Chester,2782,3,,,,5.0,modeled allocation
+geo,SEM,Bozeman / Belgrade,1392,24,,,,20.0,modeled allocation
+geo,SEM,Great Falls,1160,20,,,,20.0,modeled allocation
+geo,SEM,Havre,522,9,,,,10.0,modeled allocation
+geo,SEM,Lewistown,522,9,,,,9.0,modeled allocation
+geo,SEM,Conrad,464,8,,,,9.0,modeled allocation
+geo,SEM,Livingston,522,9,,,,8.0,modeled allocation
+geo,SEM,Dillon,406,7,,,,7.0,modeled allocation
+geo,SEM,Cut Bank,290,5,,,,6.0,modeled allocation
+geo,SEM,Choteau,348,6,,,,6.0,modeled allocation
+geo,SEM,Chester,174,3,,,,5.0,modeled allocation
+geo,AMPED,Bozeman / Belgrade,2249,24,,,,20.0,modeled allocation
+geo,AMPED,Great Falls,2342,25,,,,20.0,modeled allocation
+geo,AMPED,Havre,843,9,,,,10.0,modeled allocation
+geo,AMPED,Lewistown,750,8,,,,9.0,modeled allocation
+geo,AMPED,Conrad,750,8,,,,9.0,modeled allocation
+geo,AMPED,Livingston,656,7,,,,8.0,modeled allocation
+geo,AMPED,Dillon,562,6,,,,7.0,modeled allocation
+geo,AMPED,Cut Bank,468,5,,,,6.0,modeled allocation
+geo,AMPED,Choteau,468,5,,,,6.0,modeled allocation
+geo,AMPED,Chester,281,3,,,,5.0,modeled allocation
+creative,Display,Harvest Ready — Combine,34994,27.17,35,0,18,,modeled allocation
+creative,Display,High-Horsepower — 9RX,29600,22.98,26,0,11,,modeled allocation
+creative,Display,Compact Tractor Packages,25700,19.95,28,0,14,,modeled allocation
+creative,Display,Used Equipment Event,20500,15.92,12,0,7,,modeled allocation
+creative,Display,Parts & Service,18014,13.99,5,0,5,,modeled allocation
+creative,YouTube,Harvest Ready — Combine,10800,30.06,0,8100,0,,modeled allocation
+creative,YouTube,High-Horsepower — 9RX,8600,23.94,0,6300,0,,modeled allocation
+creative,YouTube,Compact Tractor Packages,6900,19.2,0,5140,0,,modeled allocation
+creative,YouTube,Used Equipment Event,5400,15.03,0,3620,0,,modeled allocation
+creative,YouTube,Parts & Service,4230,11.77,0,2307,0,,modeled allocation
+creative,STV,Harvest Ready — Combine,19500,27.43,0,19310,1,,modeled allocation
+creative,STV,High-Horsepower — 9RX,16400,23.07,0,16230,0,,modeled allocation
+creative,STV,Compact Tractor Packages,13600,19.13,0,13472,1,,modeled allocation
+creative,STV,Used Equipment Event,11200,15.76,0,11050,0,,modeled allocation
+creative,STV,Parts & Service,10385,14.61,0,10207,0,,modeled allocation
+creative,Premium Plus STV,Harvest Ready — Combine,11000,27.92,0,10850,0,,modeled allocation
+creative,Premium Plus STV,High-Horsepower — 9RX,9000,22.84,0,8850,0,,modeled allocation
+creative,Premium Plus STV,Compact Tractor Packages,7400,18.78,0,7290,0,,modeled allocation
+creative,Premium Plus STV,Used Equipment Event,6700,17.01,0,6590,0,,modeled allocation
+creative,Premium Plus STV,Parts & Service,5300,13.45,0,5120,0,,modeled allocation
+creative,Social,Harvest Ready — Combine,28000,30.19,420,340,2,,modeled allocation
+creative,Social,High-Horsepower — 9RX,22500,24.26,315,260,1,,modeled allocation
+creative,Social,Compact Tractor Packages,18500,19.95,370,245,3,,modeled allocation
+creative,Social,Used Equipment Event,14750,15.9,250,210,2,,modeled allocation
+creative,Social,Parts & Service,9000,9.7,115,161,1,,modeled allocation
+creative,AMPED,Used Equipment Event,3000,32.02,32,0,0,,modeled allocation
+creative,AMPED,Harvest Ready — Combine,2100,22.41,21,0,0,,modeled allocation
+creative,AMPED,Compact Tractor Packages,1800,19.21,19,0,0,,modeled allocation
+creative,AMPED,Parts & Service,1400,14.94,12,0,0,,modeled allocation
+creative,AMPED,High-Horsepower — 9RX,1070,11.42,7,0,0,,modeled allocation
