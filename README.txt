@@ -1,3 +1,7 @@
+FRONTLINE AG DASHBOARD — CALLOUT MAP V2
+
+This package supersedes the earlier inline-label map build. Upload index.html and the accompanying files to the root of the GitHub repository.
+
 FRONTLINE AG SOLUTIONS — JULY 2026 DASHBOARD PROTOTYPE
 
 Open index.html in a browser. The dashboard is a standalone file and requires no server or external JavaScript libraries.
